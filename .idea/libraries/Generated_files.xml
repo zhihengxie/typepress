@@ -1,0 +1,33 @@
+<component name="libraryTable">
+  <library name="Generated files" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/config/initialization/index.js" />
+        <item url="file://$PROJECT_DIR$/config/environment/development.js" />
+        <item url="file://$PROJECT_DIR$/config/environment/config.js" />
+        <item url="file://$PROJECT_DIR$/providers/user.js" />
+        <item url="file://$PROJECT_DIR$/app.js" />
+        <item url="file://$PROJECT_DIR$/config/environment/production.js" />
+        <item url="file://$PROJECT_DIR$/providers/db.js" />
+        <item url="file://$PROJECT_DIR$/server.js" />
+        <item url="file://$PROJECT_DIR$/providers/user.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/test.js" />
+      <root url="file://$PROJECT_DIR$/test.js" />
+      <root url="file://$PROJECT_DIR$/providers/database.js" />
+      <root url="file://$PROJECT_DIR$/providers/database.js" />
+      <root url="file://$PROJECT_DIR$/config/environment/development.js" />
+      <root url="file://$PROJECT_DIR$/config/initialization/index.js" />
+      <root url="file://$PROJECT_DIR$/config/environment/config.js" />
+      <root url="file://$PROJECT_DIR$/providers/user.js" />
+      <root url="file://$PROJECT_DIR$/config/environment/production.js" />
+      <root url="file://$PROJECT_DIR$/app.js" />
+      <root url="file://$PROJECT_DIR$/server.js" />
+      <root url="file://$PROJECT_DIR$/providers/db.js" />
+      <root url="file://$PROJECT_DIR$/providers/user.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>
